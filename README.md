@@ -1,10 +1,10 @@
 
-AI Chatbot with Gemini 1.5 Flash API Integration
-This project is an advanced AI chatbot developed using HTML, CSS, and JavaScript, with backend conversational intelligence powered by Gemini's 1.5 Flash API. Designed to provide an interactive, responsive, and seamless user experience, the chatbot demonstrates cutting-edge technology in natural language processing and user engagement.
+AI Chatbot with Gemini 3.5 Flash API Integration
+This project is an advanced AI chatbot developed using HTML, CSS, and JavaScript, with backend conversational intelligence powered by Gemini's 3.5 Flash API. Designed to provide an interactive, responsive, and seamless user experience, the chatbot demonstrates cutting-edge technology in natural language processing and user engagement.
 
 Key Features
-Gemini 1.5 Flash API Integration:
-The chatbot leverages the robust capabilities of Gemini's 1.5 Flash API to process user inputs and deliver context-aware, accurate, and dynamic responses.
+Gemini 3.5 Flash API Integration:
+The chatbot leverages the robust capabilities of Gemini's 3.5 Flash API to process user inputs and deliver context-aware, accurate, and dynamic responses.
 
 Responsive User Interface:
 Designed using HTML and CSS, the chatbot interface is highly responsive and visually appealing, providing a smooth user experience across devices.
@@ -20,9 +20,9 @@ The project allows for easy customization, making it adaptable to various use ca
 
 Technologies Used
 Frontend: HTML, CSS, JavaScript
-API Integration: Gemini 1.5 Flash API
+API Integration: Gemini 3.5 Flash API
 Version Control: Git
 How It Works
 The chatbot interface is built using HTML for structure, CSS for styling, and JavaScript for functionality.
-User queries are sent to Gemini's 1.5 Flash API for processing.
+User queries are sent to Gemini's 3.5 Flash API for processing.
 The API returns a context-aware response, which is displayed in the chatbot interface in real time.
